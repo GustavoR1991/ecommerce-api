@@ -24,7 +24,6 @@ export async function loginUser(req: Request, res: Response) {
   }
 }
 
-
 // Lista todos os usuários
 export async function listUsers(req: Request, res: Response) {
   try {
